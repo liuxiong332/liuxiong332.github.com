@@ -15,13 +15,21 @@
 
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
-  color: #f22430;
+  color: #4183C4;
 }
 #footer {
-  background-color: #fdcd60;
+  background-color: #4183C4;
 }
 
+body {
+  font-family: 'Helvetica Neue', Helvetica, 'Microsoft Yahei', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif;
+}
 
+p, ul {
+  font-size: 16px;
+  line-height: 1.75;
+  margin-bottom: 1em;
+}
 
 /* posts index */
 .post > h3.title {
@@ -77,3 +85,15 @@ h1, h2, h3, h4 {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+pre {
+  font-size: 1em;
+  color: black;
+  background-color: #EEE;
+  border: 0px;
+  border-radius: 0px;
+}
+
+#wrap {
+  background-color: #FAFAFA;
+}
