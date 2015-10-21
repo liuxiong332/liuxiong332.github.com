@@ -7,6 +7,8 @@ categories: css
 
 text-align: describe how **inline content**(like text) is aligned in parent block element.
 
+vertical-align: specify the vertical alignment of an inline or table-cell box.
+
 ## list-style
 
 对于`li`来说，我们可以设置`list-style`来改变list的风格。
