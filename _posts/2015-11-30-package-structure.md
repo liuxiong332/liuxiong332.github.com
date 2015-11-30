@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "React"
-date:   2015-10-21 20:25:49
+title:  "Package Structure"
+date:   2015-11-30 20:25:49
 categories: css
 ---
 
@@ -114,7 +114,7 @@ categories: css
 
 但是将style全部放入js之后，会导致dom的膨胀，我们可以看看`css in js`之后DOM页面的样子.
 
-![material ui dom](/images/material-ui-dom.png)
+![material ui dom](/assets/images/material-ui-dom.png)
 
 这是[material ui](http://www.material-ui.com/#/)组件库的一个页面展开后的DOM截图，从中看出DOM的膨胀非常大，这样会
 导致页面的加载速度显著下降。
